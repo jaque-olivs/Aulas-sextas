@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Teste com bordas na tabela</title>
+        <meta charset="utf-8">
+    </head>
+<body>
+    <table border = "solid">  
+         <tr>    <th>Jaqueline</th>    
+            <th>Oliveira</th>    
+            <th>28</th>
+        </tr><tr>    
+            <th>will</th>    
+            <th>smith</th>    
+            <th>50</th>
+        </tr><tr>    
+            <th>eve</th>    
+            <th>jackson</th>    
+            <th>94</th>
+        </tr><caption> Tabela de cadastro</caption></table></body></html>
